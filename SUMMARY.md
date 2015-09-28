@@ -2,5 +2,5 @@
 
 * [Overview](README.md)
 * Agreements
-   * Financial
+   * [Financial](bonds/agreements/financial.md)
 
