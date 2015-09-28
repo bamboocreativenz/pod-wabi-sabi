@@ -2,4 +2,5 @@
 
 * [Overview](README.md)
 * Agreements
+   * Financial
 
