@@ -2,10 +2,10 @@
 
 A contractor is a participant of the pod for a given period of time.
 
-They have con effect the pod structure and direction.
+They cannot effect the pod structure or direction.
 
-They have financial security. (?)
+They work for an hourly rate billable to a client.
 
-Have paid leave of __ weeks.
+There contract is fixed term and does not include leave.
 
-Recieve pay by the month.
+Paid upon invoicing Enspiral Academy.
