@@ -2,7 +2,7 @@
 
 A member is a core participant of the pod.
 
-They have con effect the pod structure and direction.
+They can effect the pod structure and direction.
 
 They have financial security. (?)
 
