@@ -19,19 +19,20 @@ we feel like there may be an opportunity to build an app that does what we need,
 - excel spreadsheet
 
 *IDEAS*
-a block-based graph, with time as the x-axis, where each block represents time allocated to a specific project.
+
+- a block-based graph, with time as the x-axis, where each block represents time allocated to a specific project.
 - ability to toggle the y-axis between:
   - project-based view, where each row is defined by a project (and blocks of time represent people working on the project?)
   - people-based view, where each row is defined by a person's available time (and blocks of time represent projects)
-a 'focus' area beneath the graph which reveals drill-down data about a person, or a project (when clicked on / selected?)
+- a 'focus' area beneath the graph which reveals drill-down data about a person, or a project (when clicked on / selected?)
   - Iain prefers in-viz expansion and contraction, particularly if the drill-down data is still over time, as this should be more intuitive and comprehendable by the user
   - a focus area provides opportunity for additional styles / types of viz (i.e. pie graphs etc)
-a 'financial' area beneath the graph, which shows the financial position of the team / person in question?
+- a 'financial' area beneath the graph, which shows the financial position of the team / person in question?
   - Iain would prefer this to be combined with the graph somehow, though significant risk of info overload... tough to integrate successfully.
-sections that can collapse if the user doesn't want to see them? (i.e. the Rohan proposition)
-ability to visualise by teams, and allow a person to belong to multiple teams.
-exploration of how this app could work within the Open App Ecosystem?
-common data structures to other Enspiral apps?
-integration with Trello and Toggl
-a notion of signalling with the viz for financial situation and time allocation situation: i.e. a green / red signal that finances are good / bad (per team / per person), some signal whether a person is free / not free for a certain time period.
-how could this tool potentially serve other purposes (i.e. rostering solution for kindergarten?) in conjunction with our immediate use case? if it can? ideal here being to build a modular tool that can be applied to a variety of use cases, while still being intuitive and simple to use. a 'generic' tool rather than a specific tool?
+- sections that can collapse if the user doesn't want to see them? (i.e. the Rohan proposition)
+- ability to visualise by teams, and allow a person to belong to multiple teams.
+- exploration of how this app could work within the Open App Ecosystem?
+- common data structures to other Enspiral apps?
+- integration with Trello and Toggl
+- a notion of signalling with the viz for financial situation and time allocation situation: i.e. a green / red signal that finances are good / bad (per team / per person), some signal whether a person is free / not free for a certain time period.
+- how could this tool potentially serve other purposes (i.e. rostering solution for kindergarten?) in conjunction with our immediate use case? if it can? ideal here being to build a modular tool that can be applied to a variety of use cases, while still being intuitive and simple to use. a 'generic' tool rather than a specific tool?
