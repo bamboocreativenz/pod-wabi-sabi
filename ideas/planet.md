@@ -13,6 +13,11 @@ we feel like there may be an opportunity to build an app that does what we need,
 - we want to be able to see the financial state of the team
 - we want to be able to see the projected financial state of the team
 
+*CURRENT SOLUTIONS: PROS AND CONS*
+- teamweek
+- elegannt
+- excel spreadsheet
+
 *IDEAS*
 a block-based graph, with time as the x-axis, where each block represents time allocated to a specific project.
 - ability to toggle the y-axis between:
