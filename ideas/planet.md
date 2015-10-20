@@ -34,3 +34,4 @@ exploration of how this app could work within the Open App Ecosystem?
 common data structures to other Enspiral apps?
 integration with Trello and Toggl
 a notion of signalling with the viz for financial situation and time allocation situation: i.e. a green / red signal that finances are good / bad (per team / per person), some signal whether a person is free / not free for a certain time period.
+how could this tool potentially serve other purposes (i.e. rostering solution for kindergarten?) in conjunction with our immediate use case? if it can? ideal here being to build a modular tool that can be applied to a variety of use cases, while still being intuitive and simple to use. a 'generic' tool rather than a specific tool?
