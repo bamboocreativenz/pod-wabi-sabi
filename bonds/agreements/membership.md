@@ -1,8 +1,8 @@
 # Membership Agreement
 Content:
 - Definition of Membership,
-- Process of becoming a membership,
-- Obligations of members.
+- Process of becoming a member,
+- Obligations of being a member.
 
 ## Definition
 Membership of the pod can be understood to be belonging to the pod. This can be characterised in three ways:
