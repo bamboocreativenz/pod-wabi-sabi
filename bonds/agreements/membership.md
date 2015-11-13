@@ -6,7 +6,7 @@ Content:
 
 ## Definition
 Membership of the pod can be understood to be belonging to the pod. This can be characterised in three ways:
- 1. A member has vote/say in what happens in the pod,
+ 1. A member has a vote/say in what happens in the pod,
  2. Can propose to add, modify or remove a Bond,
  3. Put forward a candidate for membership.
 
